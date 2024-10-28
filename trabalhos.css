@@ -1,0 +1,42 @@
+
+a {
+    color: rgb(164, 135, 119);
+    text-decoration: none;
+
+}
+.gallery img {
+    width: 33%;
+    height: auto;
+    border-radius: 10px;
+
+}
+footer {
+    background: #3e2c23;
+    color: rgb(186, 159, 144);
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+header {
+    background-color: #2a1509;#623e2a;
+    color: rgb(186, 159, 144);
+    padding: 55px 0;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+.sumario {
+    background: #623e2a;
+    color: rgb(12, 8, 5);
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.voltar{
+    text-align: center;
+}
